@@ -1,7 +1,8 @@
 {
-  "name": "devportfolio",
+  "name": "portfolio",
   "type": "module",
   "version": "0.0.1",
+  "homepage": "https://aash205.github.io/",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
