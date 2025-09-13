@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Aash Shah",
-  title: "(wannabe) Embedded Engineer",
+  title: " Embedded Engineer",
   description: "Portfolio website",
   accentColor: "#72DCDC",
   social: {
@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Embedded Engineer with 2+ years of hands-on experience in designing, developing, and debugging firmware for a wide range of microcontrollers, including STM32, Raspberry Pi, NRF, Arduino and ESP platforms. Skilled at programming, problem-solving, collaborating across teams, and delivering solutions from concept to deployment.",
-  skills: ["C", "C++", "Python", "Linux"],
+ skills: ["C", "C++", "Python", "Linux", "Git", "RISC-V", "Debugging", "Shell", "VSCode", "CMake", "RTOS", "I2C", "UART", "SPI", "BLE", "DMA", "Timers", "PWM", "ADC", "Interrupts"],
   projects: [
     {
       name: "Scalp Cooling System",
@@ -25,42 +25,42 @@ export const siteConfig = {
       name: "Modular Recording System",
       description:
         "Built a low-power system for wireless treatment recording and streaming with efficient battery monitoring and power control.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://github.com/Aash205/OTLight",
       skills: ["STM32", "LOW-POWER", "ADC"],
     },
     {
       name: "Keto Breath Analyzer",
       description:
         "Created a portable breath analyzer mapping sensor voltages to CO₂ and acetone levels with real-time OLED display.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://github.com/Aash205/Keto",
       skills: ["ATMEGA328p", "VOC Sensors", "I2C"],
     },
      {
       name: "Smart Spray Scheduler",
       description:
         "Designed a programmable system for controlled gas spraying with cycle automation and Bluetooth-based remote access.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      // link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["nRF5840", "Bluetooth", "SPI"],
     },
       {
       name: "Uroflowmetry and Urodynamics",
       description:
         "Prototyped a non-invasive diagnostic system using acoustic sensing for accurate uroflowmetry and urodynamic measurements.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      // link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["ATMEGA328p", "Signal Acquisition", "I2C"],
     },
     {
       name: "Wireless Surveillance Rover using DTMF Technology",
       description:
         "Built a rover for remote data collection with live-video streaming, GPS, and autonomous obstacle detection for autonomous navigation.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://github.com/Aash205/LY_Project",
       skills: ["ATMEGA328p", "Rpi", "DTMF"],
     },
     {
       name: "Automated Smart Trolley",
       description:
         "Developed an RFID-based smart cart that identifies products and generates automated billing in real time.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://github.com/Aash205/Automated_Smart_Trolley",
       skills: ["ATMEGA328p", "RFID", "LCD"],
     },
   ],
@@ -110,7 +110,7 @@ export const siteConfig = {
       dateRange: "2019 - 2023",
       achievements: [
         "Graduated with a CGPA of 8.6",
-        "Presented LY Paper ar ICAETIS - 2023",
+        "Presented LY Paper at ICAETIS - 2023",
         "Student Co-ordinator | TPO KJSCE",
         "Creative Head, Joint Treasurer | IETE KJSCE",
         "Networking and PR Team Member | Alumini Cell KJSCE"
