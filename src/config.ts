@@ -43,7 +43,7 @@ export const siteConfig = {
         "Designed a programmable system for controlled gas spraying with cycle automation and Bluetooth-based remote access.",
       // link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["nRF5840", "Bluetooth", "SPI"],
-      image: "public/cropped-spray.svg"
+      image: "cropped-spray.svg"
 
     },
     {
@@ -52,7 +52,7 @@ export const siteConfig = {
         "Prototyped a non-invasive diagnostic system using acoustic sensing for accurate uroflowmetry and urodynamic measurements.",
       // link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["ATMEGA328p", "Signal Acquisition", "I2C"],
-      image: "public/uro.svg"
+      image: "uro.svg"
     },
     {
       name: "Wireless Surveillance Rover using DTMF Technology",
@@ -60,7 +60,7 @@ export const siteConfig = {
         "Built a rover for remote data collection with live-video streaming, GPS, and autonomous obstacle detection for autonomous navigation.",
       link: "https://github.com/Aash205/LY_Project",
       skills: ["ATMEGA328p", "Rpi", "DTMF"],
-      image: "public/cropped-rover.svg"
+      image: "cropped-rover.svg"
     },
     {
       name: "Automated Smart Trolley",
