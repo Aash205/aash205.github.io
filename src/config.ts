@@ -11,15 +11,15 @@ export const siteConfig = {
   },
   aboutMe:
     "Embedded Engineer with 2+ years of hands-on experience in designing, developing, and debugging firmware for a wide range of microcontrollers, including STM32, Raspberry Pi, NRF, Arduino and ESP platforms. Skilled at programming, problem-solving, collaborating across teams, and delivering solutions from concept to deployment.",
- skills: ["C", "C++", "Python", "Linux", "Git", "RISC-V", "Debugging", "Shell", "VSCode", "CMake", "RTOS", "I2C", "UART", "SPI", "BLE", "DMA", "Timers", "PWM", "ADC", "Interrupts"],
+  skills: ["C", "C++", "Python", "Linux", "Git", "RISC-V", "Debugging", "Shell", "VSCode", "CMake", "RTOS", "I2C", "UART", "SPI", "BLE", "DMA", "Timers", "PWM", "ADC", "Interrupts"],
   projects: [
     {
       name: "Scalp Cooling System",
       description:
         "Developed a medical cooling device to reduce chemotherapy-induced hair loss by maintaining scalp temperature and flow control for two patients.",
       // link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["STM32", "ADC", "RTOS" , "UART"],
-      photos: []
+      skills: ["STM32", "ADC", "RTOS", "UART"],
+      image: "public/cropped-cooling_cap.svg"
     },
     {
       name: "Modular Recording System",
@@ -27,6 +27,7 @@ export const siteConfig = {
         "Built a low-power system for wireless treatment recording and streaming with efficient battery monitoring and power control.",
       link: "https://github.com/Aash205/OTLight",
       skills: ["STM32", "LOW-POWER", "ADC"],
+      image: "public/cropped-camera.svg"
     },
     {
       name: "Keto Breath Analyzer",
@@ -34,15 +35,17 @@ export const siteConfig = {
         "Created a portable breath analyzer mapping sensor voltages to CO₂ and acetone levels with real-time OLED display.",
       link: "https://github.com/Aash205/Keto",
       skills: ["ATMEGA328p", "VOC Sensors", "I2C"],
+      image: "public/cropped-keto.svg"
     },
-     {
+    {
       name: "Smart Spray Scheduler",
       description:
         "Designed a programmable system for controlled gas spraying with cycle automation and Bluetooth-based remote access.",
       // link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["nRF5840", "Bluetooth", "SPI"],
+
     },
-      {
+    {
       name: "Uroflowmetry and Urodynamics",
       description:
         "Prototyped a non-invasive diagnostic system using acoustic sensing for accurate uroflowmetry and urodynamic measurements.",
@@ -62,6 +65,8 @@ export const siteConfig = {
         "Developed an RFID-based smart cart that identifies products and generates automated billing in real time.",
       link: "https://github.com/Aash205/Automated_Smart_Trolley",
       skills: ["ATMEGA328p", "RFID", "LCD"],
+      image: "public/cropped-smart_trolley.svg"
+
     },
   ],
   experience: [
