@@ -19,7 +19,7 @@ export const siteConfig = {
         "Developed a medical cooling device to reduce chemotherapy-induced hair loss by maintaining scalp temperature and flow control for two patients.",
       // link: "https://aidevroundup.com/?ref=devportfolio",
       skills: ["STM32", "ADC", "RTOS", "UART"],
-      image: "public/cropped-cooling_cap.svg"
+      image: "cropped-cooling_cap.svg"
     },
     {
       name: "Modular Recording System",
@@ -27,7 +27,7 @@ export const siteConfig = {
         "Built a low-power system for wireless treatment recording and streaming with efficient battery monitoring and power control.",
       link: "https://github.com/Aash205/OTLight",
       skills: ["STM32", "LOW-POWER", "ADC"],
-      image: "public/cropped-camera.svg"
+      image: "cropped-camera.svg"
     },
     {
       name: "Keto Breath Analyzer",
@@ -35,7 +35,7 @@ export const siteConfig = {
         "Created a portable breath analyzer mapping sensor voltages to CO₂ and acetone levels with real-time OLED display.",
       link: "https://github.com/Aash205/Keto",
       skills: ["ATMEGA328p", "VOC Sensors", "I2C"],
-      image: "public/cropped-keto.svg"
+      image: "cropped-keto.svg"
     },
     {
       name: "Smart Spray Scheduler",
@@ -65,7 +65,7 @@ export const siteConfig = {
         "Developed an RFID-based smart cart that identifies products and generates automated billing in real time.",
       link: "https://github.com/Aash205/Automated_Smart_Trolley",
       skills: ["ATMEGA328p", "RFID", "LCD"],
-      image: "public/cropped-smart_trolley.svg"
+      image: "cropped-smart_trolley.svg"
 
     },
   ],
