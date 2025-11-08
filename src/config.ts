@@ -17,7 +17,7 @@ export const siteConfig = {
       name: "Scalp Cooling System",
       description:
         "Developed a medical cooling device to reduce chemotherapy-induced hair loss by maintaining scalp temperature and flow control for two patients.",
-      // link: "https://aidevroundup.com/?ref=devportfolio",
+      link: "https://github.com/Kushal-Chandar/ScalpCoolingDevice",
       skills: ["STM32", "ADC", "RTOS", "UART"],
       image: "cropped-cooling_cap.svg"
     },
@@ -33,7 +33,7 @@ export const siteConfig = {
       name: "Keto Breath Analyzer",
       description:
         "Created a portable breath analyzer mapping sensor voltages to CO₂ and acetone levels with real-time OLED display.",
-      link: "https://github.com/Aash205/Keto",
+      link: "https://github.com/Kushal-Chandar/Ketone-Breath-Analyzer-POC",
       skills: ["ATMEGA328p", "VOC Sensors", "I2C"],
       image: "cropped-keto.svg"
     },
@@ -41,7 +41,7 @@ export const siteConfig = {
       name: "Smart Spray Scheduler",
       description:
         "Designed a programmable system for controlled gas spraying with cycle automation and Bluetooth-based remote access.",
-      // link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://github.com/Kushal-Chandar/VeraShield-Firmware",
       skills: ["nRF5840", "Bluetooth", "SPI"],
       image: "cropped-spray.svg"
 
