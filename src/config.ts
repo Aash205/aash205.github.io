@@ -41,8 +41,8 @@ export const siteConfig = {
       name: "Smart Spray Scheduler",
       description:
         "Designed a programmable system for controlled gas spraying with cycle automation and Bluetooth-based remote access.",
-      link: "https://github.com/Kushal-Chandar/VeraShield-Firmware",
-      skills: ["nRF5840", "Bluetooth", "SPI"],
+      link: "https://github.com/Kushal-Chandar/VeraShield-App",
+      skills: ["nRF52832", "Bluetooth", "SPI"],
       image: "cropped-spray.svg"
 
     },
